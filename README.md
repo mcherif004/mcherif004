@@ -15,7 +15,7 @@
 | [**multistream-upload**](https://github.com/mcherif004/multistream-upload) | Next.js 14, TypeScript, NextAuth | Multi-platform video metadata & batch upload dashboard |
 | [**yt-downloader**](https://github.com/mcherif004/yt-downloader) | FastAPI, yt-dlp, ffmpeg | Local media downloader for YT / Twitch / Kick |
 | [**job-tracker**](https://github.com/mcherif004/job-tracker) | Flask, SQLite, Selenium | Ethical LinkedIn job tracking assistant *(public)* |
-| [**jobauto**](https://github.com/mcherif004/jobauto) | Python, SQLite, Gmail OAuth | Outreach pipeline *(private)* |
+| **jobauto** | Python, SQLite, Gmail OAuth | Outreach pipeline *(private — not linked)* |
 
 ---
 
