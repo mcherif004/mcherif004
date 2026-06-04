@@ -28,7 +28,7 @@ Descarga según el tipo de oferta:
 
 Edición EN/FR: [CV_EDITOR_EN.pdf](cv/CV_EDITOR_EN.pdf) · [CV_EDITOR_FR.pdf](cv/CV_EDITOR_FR.pdf)
 
-> Fuente editable: carpeta local `Importante/trabajo/` · Regenerar: `python build_cv_pdf.py`
+> Regenerar CVs: `Importante/trabajo/build_cv_pdf.py` → `Work/Edit/sync-profile-github.ps1`
 
 ---
 
