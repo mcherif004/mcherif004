@@ -19,7 +19,7 @@ Solo se puede hacer desde la web (no hace falta `gh`).
 | Campo | Texto sugerido |
 |-------|----------------|
 | **Name** | Mostafa Cherif |
-| **Bio** | Junior Full-Stack · Next.js & Python · APIs · 4 languages · Available now · Remote EU |
+| **Bio** | Junior Full-Stack · Python · TypeScript · JavaScript · ES·AR·EN·FR · Remote EU · Available now |
 | **Location** | Córdoba, Spain |
 | **Website** | https://mcherif004.github.io/Portfolio/ |
 

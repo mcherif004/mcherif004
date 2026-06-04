@@ -1,6 +1,6 @@
 # Mostafa Cherif
 
-**Junior Full-Stack Developer** · Next.js & Python · APIs & OAuth · ES · AR · EN · FR · Available now · Remote EU
+**Junior Full-Stack Developer** · **Python** · **TypeScript** (Next.js) · **JavaScript** · Langs: **ES** · **AR** (native) · **EN** B2 · **FR** B1 · Remote EU · Available now
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mcherif004.github.io-0ea5e9?style=flat-square)](https://mcherif004.github.io/Portfolio/)
 [![Portfolio Video](https://img.shields.io/badge/Video_Portfolio-GitHub_Pages-8b5cf6?style=flat-square)](https://mcherif004.github.io/Portfolio-Video/)
@@ -44,7 +44,9 @@ Edición EN/FR: [CV_EDITOR_EN.pdf](cv/CV_EDITOR_EN.pdf) · [CV_EDITOR_FR.pdf](cv
 
 ## Tech focus
 
-`TypeScript` · `React` · `Next.js` · `FastAPI` · `Python` · `Flask` · `MySQL/SQLite` · `REST` · `OAuth` · `Git` · `n8n`
+**Core languages:** `Python` · `TypeScript` · `JavaScript` (+ PHP/Laravel from production work)
+
+**Stack:** Next.js · React · FastAPI · Flask · MySQL/SQLite · REST · OAuth · Git · n8n
 
 ---
 
