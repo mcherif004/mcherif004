@@ -1,6 +1,6 @@
 # Mostafa Cherif
 
-**Junior full-stack developer** · React / Next.js · Python · APIs · 4 languages · Spain · open to remote EU
+**Junior Full-Stack Developer** · Next.js & Python · APIs & OAuth · ES · AR · EN · FR · Available now · Remote EU
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mcherif004.github.io-0ea5e9?style=flat-square)](https://mcherif004.github.io/Portfolio/)
 [![Portfolio Video](https://img.shields.io/badge/Video_Portfolio-GitHub_Pages-8b5cf6?style=flat-square)](https://mcherif004.github.io/Portfolio-Video/)
