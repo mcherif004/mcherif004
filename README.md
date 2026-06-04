@@ -9,6 +9,8 @@
 
 📍 Córdoba, Spain · 📞 +34 633 626 587 · **Available within 24–48h**
 
+📘 Mantenimiento del perfil: [BASE.md](BASE.md) · CVs: [cv/README.md](cv/README.md)
+
 ---
 
 ## CVs (PDF)
