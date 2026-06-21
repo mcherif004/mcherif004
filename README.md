@@ -16,8 +16,8 @@ DAW graduate (2025) with six months of web development experience — APIs, mode
 
 | Language | Download |
 |----------|----------|
-| Español | [CV_ES.pdf](cv/CV_ES.pdf) |
-| English | [CV_EN.pdf](cv/CV_EN.pdf) |
+| Español | [CV_Mostafa_ES.pdf](cv/CV_Mostafa_ES.pdf) |
+| English | [CV_Mostafa_EN.pdf](cv/CV_Mostafa_EN.pdf) |
 
 ---
 
